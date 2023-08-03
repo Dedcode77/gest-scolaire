@@ -1,0 +1,13 @@
+.custom-input {
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+.custom-icon {
+  color: #009688;
+}
+
+.bg-color-right {
+  background-color: #2d9cdb;
+  float:right;
+  height: 100vh;
+}
