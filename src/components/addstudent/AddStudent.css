@@ -1,0 +1,18 @@
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .header {
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  .btn-primary {
+    color: white;
+    border-color: #56CCF2;
+  }
